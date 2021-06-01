@@ -1,0 +1,7 @@
+com\loan\LoanmanagementApplication.class
+com\loan\controller\LoanController.class
+com\loan\service\CustomerService.class
+com\loan\dao\AdminDAO.class
+com\loan\model\CustomerDetails.class
+com\loan\dao\CustomerDAO.class
+com\loan\service\AdminService.class
